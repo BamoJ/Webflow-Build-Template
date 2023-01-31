@@ -32,19 +32,19 @@ This project is using `yarn`.
 First, install dependencies:
 
 ```sh
-yarn
+npm i / npm install
 ```
 
 To launch a local dev server:
 
 ```sh
-yarn dev
+npm run dev
 ```
 
 To create a production build:
 
 ```sh
-yarn build
+npm run build
 ```
 
 To clean the local `/dist` folder:
