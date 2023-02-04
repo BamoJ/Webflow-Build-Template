@@ -15,10 +15,7 @@ You can find a simple example of a Webflow site using this setup [here](https://
 
 <br />
 
-## How to use with Webflow
-
-### 🇫🇷 French
-The doc is [here](https://github.com/armandsalle/vite-javascript-webflow/blob/main/HowToUse_JS_FR.md) 
+## How to use with Webflow 
 
 ### 🇬🇧 English
 The doc is [here](https://github.com/armandsalle/vite-javascript-webflow/blob/main/HowToUse_JS_EN.md) 
@@ -27,7 +24,7 @@ The doc is [here](https://github.com/armandsalle/vite-javascript-webflow/blob/ma
 
 ## Building and running on localhost
 
-This project is using `yarn`.
+You can use `yarn` or `NPM` to run this on your local server.
 
 First, install dependencies:
 
